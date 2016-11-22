@@ -1,4 +1,4 @@
-ul {
+.main-menu ul {
 	list-style: none;
 }
 
@@ -15,7 +15,7 @@ ul {
 	color: #687ba7;
 }
 
-li img {
+.links li img {
 	display: inline-block;
 	height: 14px;
 	width: 14px;
