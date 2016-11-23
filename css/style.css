@@ -35,7 +35,7 @@
 	margin-bottom: 0px;
 }
 .header {
-	padding: 50px 0 0 180px;
+	padding: 50px 0 0 250px;
 	color: #ffffff;
 	font-size: 46px;
 	font-weight: 600;
@@ -43,6 +43,7 @@
 
 .text-banner p {
 	margin-top: 10px;
+	padding-left: 7px;
 }
 
 .text-banner {
@@ -108,4 +109,75 @@
 .media p {
 	font-size: 18px;
 	margin: 5px 0;
+}
+.container-fluid{
+	padding: 0;
+}
+
+
+/* Style for part4-6*/ 
+
+.text{
+	text-align: center;
+	font-size: 30px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.blue{
+	color:lightblue;
+}
+.part5 img{
+	float: left;
+	margin-right: 10px;
+}
+.forimg{
+	margin-top: -20px;
+}
+.forimg p{
+	margin-top: -15px;
+}
+.botcol{
+	margin-top: 40px;
+}
+.part6{
+	background-color: black;
+	color:white;
+	margin-top: 40px;
+}
+.part6 p{
+	margin-top: -10px;
+}
+.part6 .text{
+	margin:20px 0;
+}
+.part6 .oldent{
+	margin:30px 0 10px 0;
+}
+.part6 .oldent .col-md-12{
+	padding-left: 0
+}
+.part6 button{
+	background: black;
+	color:lightblue;
+	font-size: 20px;
+	border: 2px solid lightblue;
+	padding:5px  10px;
+	margin:20px 0 40px 0;
+}
+
+.part4{
+	background: lightblue;
+	color:white;
+	font-size: 16px;
+}
+.part4 img{
+	margin-bottom: 50px;
+	margin-right: 20px;
+
+}
+.part4 p{
+ margin-top: 32px;
+}
+.part4 ul {
+	padding-left:18px;
 }
