@@ -124,7 +124,7 @@
 	margin-bottom: 30px;
 }
 .blue{
-	color:lightblue;
+	color:#00BFFF;
 }
 .part5 img{
 	float: left;
@@ -158,9 +158,9 @@
 }
 .part6 button{
 	background: black;
-	color:lightblue;
+	color:#00BFFF;
 	font-size: 20px;
-	border: 2px solid lightblue;
+	border: 2px solid #00BFFF;
 	padding:5px  10px;
 	margin:20px 0 40px 0;
 }
@@ -299,4 +299,35 @@ h4 {
 .row {
 	display: flex;
 	justify-content: space-around;
+}
+/*style for part 10*/
+.part10{
+	background-color: black;
+	margin-bottom: 30px solid:black;
+}
+.part10 p{
+	color: lightgrey;
+
+}
+.part10 button{
+	background: black;
+	color: white;
+	font-size: 20px;
+	border: 3px solid white;
+	padding: 3px 20px ;
+	margin-left: 250px;
+}
+.white{
+	color: white;
+}
+.row10{
+	align-items: center;
+	margin-left: 300px;
+}
+/*style for part 11*/
+.part11{
+	background-color: #1a1a1a ;
+  	font-size: 20px;
+	color: lightgrey;
+	padding: 20px solid:#1a1a1a;
 }
