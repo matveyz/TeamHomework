@@ -307,22 +307,20 @@ h4 {
 }
 .part10 p{
 	color: lightgrey;
-
+	font-size: 14px;
 }
 .part10 button{
+	display: block;
 	background: black;
 	color: white;
 	font-size: 20px;
 	border: 3px solid white;
 	padding: 3px 20px ;
-	margin-left: 250px;
+	margin-top: 30px;
+	margin-left: 130px;
 }
 .white{
 	color: white;
-}
-.row10{
-	align-items: center;
-	margin-left: 300px;
 }
 /*style for part 11*/
 .part11{
