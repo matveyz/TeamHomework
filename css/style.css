@@ -124,7 +124,11 @@
 	margin-bottom: 30px;
 }
 .blue{
+<<<<<<< HEAD
 	color:lightblue;
+=======
+	color:#00BFFF;
+>>>>>>> origin/develop
 }
 .part5 img{
 	float: left;
@@ -158,9 +162,15 @@
 }
 .part6 button{
 	background: black;
+<<<<<<< HEAD
 	color:lightblue;
 	font-size: 20px;
 	border: 2px solid lightblue;
+=======
+	color:#00BFFF;
+	font-size: 20px;
+	border: 2px solid #00BFFF;
+>>>>>>> origin/develop
 	padding:5px  10px;
 	margin:20px 0 40px 0;
 }
@@ -188,6 +198,12 @@
     color: #37c8e5;
 }
 
+<<<<<<< HEAD
+=======
+.title {
+    margin-left: 140px;
+}
+>>>>>>> origin/develop
 
 .header2 {
     display: flex;
@@ -195,12 +211,21 @@
     align-items: center;
 }
 
+<<<<<<< HEAD
 
+=======
+.header4 {
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+>>>>>>> origin/develop
 
 .color2 {
     color: #37c8e5;
 }
 
+<<<<<<< HEAD
 
 .text3 {
 	text-align: center;
@@ -209,12 +234,44 @@
 	padding-top: 50px;
 }
 
+=======
+.color3 {
+    position: absolute;
+    background: #babec4;
+    height: 650px;
+    width: 19%;
+    left: 945px;
+    top: 2070px;
+}
+
+.text3 {
+	text-align: center;
+	margin-top: 90px;
+	font-size: 33px;
+	font-weight: bold;
+}
+
+.image {
+    position: relative;
+}
+
+.float {
+    float: left;
+    margin-top: 10px;
+}
+
+.move {
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+>>>>>>> origin/develop
 
 .paragraph {
     font-family: Verdana, Arial, Helvetica, sans-serif;
     font-size: 13px;
 }
 
+<<<<<<< HEAD
 
 .box {
 	background: #bec1c6;
@@ -224,6 +281,24 @@
 
 
 
+=======
+.flex {
+    display: flex;
+    flex-direction: column;
+}
+
+.float2 {
+    float: right;
+    margin-bottom: 800px;
+}
+
+.header3 {
+    margin-left: 950px;
+    position: absolute;
+    margin-top: 20px;
+    background-attachment: fixed;
+}
+>>>>>>> origin/develop
 
 
 .color {
@@ -231,7 +306,13 @@
     height: 300px;
 }
 
+<<<<<<< HEAD
 
+=======
+.space {
+    margin-top: 15px;
+}
+>>>>>>> origin/develop
 
 .radius {
 	background: black;
@@ -259,6 +340,7 @@ h4 {
 	margin-bottom: 10px;
 }
 
+<<<<<<< HEAD
 .row1 {
 	display: flex;
 	justify-content: space-around;
@@ -274,6 +356,12 @@ h4 {
 	margin-bottom: -10px;
 }
 
+=======
+.row {
+	display: flex;
+	justify-content: space-around;
+}
+>>>>>>> origin/develop
 /*style for part 10*/
 .part10{
 	background-color: black;
@@ -281,27 +369,46 @@ h4 {
 }
 .part10 p{
 	color: lightgrey;
+<<<<<<< HEAD
 
 }
 .part10 button{
+=======
+	font-size: 14px;
+}
+.part10 button{
+	display: block;
+>>>>>>> origin/develop
 	background: black;
 	color: white;
 	font-size: 20px;
 	border: 3px solid white;
 	padding: 3px 20px ;
+<<<<<<< HEAD
 	margin-left: 250px;
+=======
+	margin-top: 30px;
+	margin-left: 130px;
+>>>>>>> origin/develop
 }
 .white{
 	color: white;
 }
+<<<<<<< HEAD
 .row10{
 	align-items: center;
 	margin-left: 300px;
 }
+=======
+>>>>>>> origin/develop
 /*style for part 11*/
 .part11{
 	background-color: #1a1a1a ;
   	font-size: 20px;
 	color: lightgrey;
 	padding: 20px solid:#1a1a1a;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> origin/develop
